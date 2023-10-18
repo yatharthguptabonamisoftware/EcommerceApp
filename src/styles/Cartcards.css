@@ -1,0 +1,25 @@
+.cards{
+    height: 400px;
+    width: 400px;
+}
+.cartcards{
+display: flex;
+gap:200px;
+margin-top: 50px;
+margin-left:30px;
+}
+
+.cartcardimg{
+    height: 100px;
+    width: 60px;
+}
+.cardtitle{
+    width: 300px;
+}
+.deleteicon{
+    height: 70px;
+    width: 70px;
+}
+.price{
+    width: 200px;
+}

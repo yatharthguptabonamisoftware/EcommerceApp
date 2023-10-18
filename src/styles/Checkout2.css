@@ -1,0 +1,30 @@
+.checkout2{
+    display: flex;
+    padding:60px;
+    justify-content: space-between;
+}
+.checkout2part1{
+    display: flex;
+    flex-direction: column;
+    gap:50px;
+    width: 50%;
+    
+
+}
+.checkout2part2{
+    width: 30%;
+}
+.cartbill{
+    width: 100%;
+}
+.cartbill1{
+    width: 100%;
+}
+.paymentheading{
+    color:  #192655 !important ;
+    font-size: 40px;
+}
+.summaryheading{
+    color: #192655;
+    font-size: 40px;
+}

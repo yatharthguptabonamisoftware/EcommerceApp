@@ -1,0 +1,131 @@
+.checkout{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding:10px;
+ 
+}
+.checkoutsection{
+    height: 700px;
+    display: flex;
+    gap: 50px;
+}
+.checkoutbill{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+.checkoutbill1{
+    /* backgrund-color: #D67BFF; */
+    height: 640px;
+    width: 700px;
+    border: 5px solid #EE9322;
+    margin-bottom: 25px;
+    color:#EE9322;
+    
+    
+}
+
+.checkoutdetail{
+    display: flex;
+    flex-direction: column;
+   
+}
+.checkoutdetail1{
+    display: flex;
+    gap:120px;
+    margin-left:20px;  
+}
+.checkoutdetail2{
+    margin-top:20px;
+    width: 1000px;
+}
+
+.checkoutbill1part1{
+    background-color: #EE9322;
+    color: white;
+}
+.cvv{
+    display: flex;
+    gap: 114px;
+}
+.checkoutbill1par2{
+    display: flex;
+    flex-direction: column;
+    border: 5px solid #EE9322;
+    border-top:0px;
+    padding:30px;
+    gap: 18px;
+}
+.carddetailheading{
+    font-size: 60px;
+}
+
+.visaimage{
+    height: 80px;
+    width: 80px;
+}
+.checkoutbutton{}
+
+.carnumbersection{
+    display: flex;
+    
+    border: 2px solid grey;
+  
+    gap:200px;
+}
+.cardnumbersectionimages{
+    display: flex;
+   
+gap:5px;
+}
+.cardnumbersectionimages1{
+    height: 30px;
+    width: 40px;
+    opacity: 40%;
+}
+.cardnumbersectionimages2{
+    height: 30px;
+    width: 40px;
+    opacity: 40%;
+}
+.cardnumbersectionimages3{
+    height: 30px;
+    width: 40px;
+    opacity: 40%;
+}
+.cardnumbersectionimagesactive{
+    height: 30px;
+    width: 40px;
+}
+.cardnumbersectioninput{
+    border: 0px;
+    height: 90px;
+    height: 100%;
+    border: 0px solid white;
+    
+    outline: none;
+}
+.textarea:focus,cardnumbersectioninput:focus{
+    outline: none;
+}
+.paymentheading{
+    font-size: 45px;
+    color: #EE9322;
+}
+
+.billinput{
+    border: 1px solid grey;
+    height:40px;
+    width: 330px;
+    padding: 30px;
+}
+.billinputname{
+    width: 720px;
+    border: 1px solid grey;
+    padding: 10px;
+}
+.labelexpiry{
+    font-size: 25px;
+}

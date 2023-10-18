@@ -1,0 +1,19 @@
+
+.checkoutcards{
+display: flex;
+gap:100px;
+margin-top: 50px;
+margin-left:30px;
+}
+
+.checkoutcardimg{
+    height: 100px;
+    width: 60px;
+}
+.checkoutcardtitle{
+    width: 200px;
+}
+
+.checkoutprice{
+    width: 200px;
+}

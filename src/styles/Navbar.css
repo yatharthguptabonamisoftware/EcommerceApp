@@ -1,0 +1,14 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    height: 70px;
+    padding: 20px;
+}
+.link{
+    text-decoration: none;
+    color:white;
+}
+.inputnavbar{
+    width: 500px;
+}

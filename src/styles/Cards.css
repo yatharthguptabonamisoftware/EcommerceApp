@@ -1,0 +1,19 @@
+.cards{
+    height: 400px;
+    width: 400px;
+}
+.cardimage{
+    height: 300px;
+    width:100%;
+}
+.countinput{
+  
+    border: black solid 1px;
+}
+.counter{
+    display: flex;
+    gap: 20px;
+}
+.addtocart{
+    margin-top: 30px;
+}

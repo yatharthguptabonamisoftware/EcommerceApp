@@ -1,0 +1,90 @@
+.AdressFormField {
+    border-radius: 40px;
+    width: 600px;
+    height: 60px;
+
+}
+
+.AdressFormSection {
+    display: flex;
+    gap: 30px;
+}
+
+.Heading {
+    width: 200px;
+}
+
+.mainheading {
+    color: #192655;
+    font-size: 40px;
+}
+
+.fieldarea {
+    display: flex;
+    flex-direction: column;
+}
+
+.error {
+    color: red;
+}
+
+.addbutton {
+    visibility: hidden;
+}
+
+.nobutton {}
+
+.streetadress {
+    width: 1043x;
+    border-radius: 40px;
+    height: 50px;
+}
+
+.adresssection {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.adresssection2 {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.country {
+    width: 500px;
+    border-radius: 40px;
+    height: 50px;
+}
+
+.city {
+    width: 500px;
+    border-radius: 40px;
+    height: 50px;
+}
+
+.pincodearea {
+    display: flex;
+}
+
+.pincode {
+    width: 500px;
+    border-radius: 40px;
+    height: 50px;
+}
+
+.pincodesection {
+    display: flex;
+    flex-direction: column;
+}
+
+.citysection {
+    display: flex;
+    flex-direction: column;
+}
+
+.countrysection {
+    display: flex;
+    flex-direction: column;
+}

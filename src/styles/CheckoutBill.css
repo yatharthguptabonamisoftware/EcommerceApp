@@ -1,0 +1,40 @@
+.checkoutbill{
+    display: flex;
+    gap:30px;
+    
+}
+.cardnumbersectioninput{
+    border-radius: 40px;
+}
+.billinput{
+    border-radius: 40px;
+}
+.labelexpiry{
+    border-radius: 40px;
+    height: 50px;
+}
+.datepicker{
+    border-radius: 40px;
+    height: 60px;
+}
+
+.carnumbersection{
+    border-radius: 40px;
+    height: 60px;
+    gap:50%;
+   z-index: 1;
+    
+}
+.cardnumbersectioninput{
+    height: 58px;
+    width: 100%;
+    z-index: 1;
+    
+}
+.cardnumbersectionimages{
+    z-index: 2;
+    position: absolute;
+    left:1000px;
+    margin-top: 10px;
+}
+

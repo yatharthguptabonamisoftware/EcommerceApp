@@ -1,0 +1,96 @@
+.cart{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap:990px;
+    padding:30px;
+}
+.heading{
+    font-size: 100px;
+}
+hr{
+    height: 4;
+}
+h2{
+    font-size: 25px;
+}
+h3{
+    font-size: 38px;
+}
+.checkout{
+    font-size: 30px;
+}
+.cartsection{
+    display: flex;
+    gap:80px;
+}
+.cartbill{
+    display: flex;
+    flex-direction: column;
+}
+.cartbill1{
+    background-color: #E4F1FF;
+    border-radius: 50px;
+    height: 500px;
+    width: 500px;
+    border: 1px solid grey;
+    margin-bottom: 25px;
+    
+}
+
+.cartdetail{
+    display: flex;
+    flex-direction: column;
+   
+}
+.cartdetail1{
+    display: flex;
+    gap:200px;
+    margin-left:20px;
+    
+  
+
+   
+}
+.cartdetail2{
+    margin-top:50px;
+    width: 1200px;
+}
+hr{
+    border: 0.5px solid grey;
+}
+a{
+    
+    border-radius: 50%;
+}
+button{
+    width: 400px;
+    height: 80px;
+}
+.discountinput  {
+   position: relative;
+    border: 5px solid green;
+    top:1px;
+    z-index: 0;
+    margin-bottom: 50px;
+
+}
+.discountinputcorrect  {
+    border: 2px solid red;
+    margin-bottom: 50px;
+}
+.discountheadingdown{
+    z-index: 1;
+    margin-top: 40px;
+    transition: all 1s ease;
+}
+.discountheading{
+    margin-top: 10px;
+    transition: all 1s ease;
+}
+.correctlabel{
+    color:green;
+}
+.incorrectlabel{
+    color:red;
+}
